@@ -1,4 +1,3 @@
-% Computer project ME 554 
 % By: Krishna Varadarajan
 % choosing sampling time period, h or Ts
 %--------------------------------------------
@@ -10,7 +9,7 @@ J1 = 0.0024; J2 = 0.0019; J3 = 0.0019;
 k1 = 2.8; k2 = 2.8;
 c1 = 0.007; c2 = 0.001; c3 = 0.001;
 
-% continous time state matrices
+% continous time state matrices - A,B,C,D matrices belong to a 3-disk rotor hardware that was being studied for this project
 A = [0 1 0 0 0 0;
     -k1/J1 -c1/J1 k1/J1 0 0 0;
     0 0 0 1 0 0;
