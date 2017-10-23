@@ -1,7 +1,7 @@
-% Computer project ME 554 
 % By: Krishna Varadarajan
 % plotting the control input and states - sample time already chosen =
 % Sampling time  = 0.03s
+% Course Instructor: Dr. Alok Sinha
 %--------------------------------------------
 
 clear all;
